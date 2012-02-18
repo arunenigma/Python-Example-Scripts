@@ -1,3 +1,6 @@
+# Python Program to find Alexa rank of a Website
+# Author : Arunprasath Shankar
+# mail : axs918@case.edu
 import sys
 import re
 import urllib2
